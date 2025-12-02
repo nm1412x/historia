@@ -62,23 +62,22 @@ table {
     }
 
     th, td {
-      border: 1px solid #333;  /* borde de celdas */
-      padding: 10px;           /* espacio interno */
-      text-align: center;      /* alineación del texto */
+      border: 1px solid #333;  
+      padding: 10px;           
+      text-align: center;      
     }
 
     th {
-      background-color: #4CAF50; /* color de fondo encabezado */
-      color: white;              /* color del texto */
+      background-color: #4CAF50; 
+      color: white;              
     }
 
     tr:nth-child(even) {
-      background-color: #f2f2f2; /* filas pares con color distinto */
+      background-color: #f2f2f2; 
     }
 
     tr:hover {
-      background-color: #ddd;    /* efecto al pasar el mouse */
-
+      background-color: #ddd;    
     }
 a {
   color: blue;
@@ -93,3 +92,4 @@ ul {
 li {
   margin-bottom: 6px;    
 }
+
