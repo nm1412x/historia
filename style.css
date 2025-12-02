@@ -78,4 +78,9 @@ table {
 
     tr:hover {
       background-color: #ddd;    /* efecto al pasar el mouse */
+
     }
+a {
+  color: blue;
+  text-decoration: underline;
+}
